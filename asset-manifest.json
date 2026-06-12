@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shreeshailbiradar833-blip/reactProject/static/css/main.3982bb5f.css",
+    "main.js": "/shreeshailbiradar833-blip/reactProject/static/js/main.3fa5c1cb.js",
+    "static/js/453.556d4fe2.chunk.js": "/shreeshailbiradar833-blip/reactProject/static/js/453.556d4fe2.chunk.js",
+    "index.html": "/shreeshailbiradar833-blip/reactProject/index.html",
+    "main.3982bb5f.css.map": "/shreeshailbiradar833-blip/reactProject/static/css/main.3982bb5f.css.map",
+    "main.3fa5c1cb.js.map": "/shreeshailbiradar833-blip/reactProject/static/js/main.3fa5c1cb.js.map",
+    "453.556d4fe2.chunk.js.map": "/shreeshailbiradar833-blip/reactProject/static/js/453.556d4fe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.3fa5c1cb.js"
+  ]
+}
